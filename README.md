@@ -20,6 +20,8 @@ Can use decimal numbers `/cb scale 0.8`
 
  `/cb theme` - set theme. Default = 2 (CustomHud)
 
+ `/cb dynamode` - sets claimbar do show all claimed mobs instead of in party/instance. Default = off
+
  ###Available options:
 
  `/cb theme 1` - Darksouls

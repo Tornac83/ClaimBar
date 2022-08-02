@@ -14,7 +14,7 @@ local config = {
     max_bar = 1,
     scale = 1.0,
     anim_time = 0.6, -- seconds
-	dyna_mode = false
+	dyna_mode = true
 };
 local theme_config = {}
 local images = {}
